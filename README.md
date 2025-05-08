@@ -1,32 +1,60 @@
-# Hi there, I'm Apoorva! 👋
+<h1 align="center">Hey there! I'm Apoorva 👋</h1>
+<h3 align="center">CSE Student | Frontend Developer | Graphic Designer | Tech Enthusiast</h3>
 
-🎓 CSE Undergrad | 💻 Frontend Dev | 🎨 Graphic Designer
-
-- 🔭 I’m currently working on: [Placed](https://placed-app.vercel.app)
-- 🌱 Learning: Spring Boot, Cloud Deployment, System Design
-- 👯 Looking to collaborate on full-stack web projects
-- 💬 Ask me about Java, React, Figma, Canva, or internships
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | apoorva@email.com
-- ⚡ Fun fact: I play keyboard and love digital art!
-
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-
-## 📊 GitHub Stats
-![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Frontend+Dev+💻;Creative+Designer+🎨;Lifelong+Learner+🌱" />
+</p>
 
 ---
 
-### 📌 Portfolio & Projects
+### 🌟 About Me
 
-- 🖼️ [Janata School Website](https://janataschool.web.app)
-- 💊 [Medicine Dose Tracker](https://github.com/yourusername/medicine-tracker)
-- 🛒 [Distributed Image Capture System](https://github.com/yourusername/retail-capture)
+- 🔭 Currently building: **[Placed](https://placed-app.vercel.app/)** – a platform to share interview experiences  
+- 💊 Created: **Medicine Dose Tracker** using Java Swing and JTable  
+- 📸 Final year project: **Distributed Image Capture & Management System** for retail stores  
+- 🌱 Learning: Spring Boot, Docker, System Design  
+- 🎨 Designing with: Figma, Canva | 🎹 Hobbyist Keyboard Player  
+- 🗣️ Public Speaking | 📣 IEEE ITS Publicity Lead  
 
 ---
 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,tailwind,git,github,figma,gitlab,postman,aws,azure" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| 💡 Project | 🚀 Description | 🔗 Link |
+|-----------|----------------|--------|
+| **Placed** | Interview prep platform for students with post sharing | [View Site](https://placed-app.vercel.app) |
+| **Medicine Dose Tracker** | Java app to remind medicine timings with JTable UI | [View Code](https://github.com/yourusername/medicine-tracker) |
+| **Retail Stock Image Monitor** | Automates shelf stock monitoring using camera feeds | [View Repo](https://github.com/yourusername/retail-capture) |
+| **Janata School Website** | Static HTML/CSS website for a local school | [View Site](https://janataschool.web.app) |
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>"Code like a developer, design like an artist, and dream like a creator."</i></p>
